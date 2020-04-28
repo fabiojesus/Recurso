@@ -1,0 +1,16 @@
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CopyComplete
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache

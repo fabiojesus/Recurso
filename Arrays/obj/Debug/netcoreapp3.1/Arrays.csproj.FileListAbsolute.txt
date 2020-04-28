@@ -1,0 +1,9 @@
+C:\Users\fabio\source\repos\Recurso\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+C:\Users\fabio\source\repos\Recurso\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\fabio\source\repos\Recurso\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+C:\Users\fabio\source\repos\Recurso\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+C:\Users\fabio\source\repos\Recurso\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\fabio\source\repos\Recurso\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+C:\Users\fabio\source\repos\Recurso\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+C:\Users\fabio\source\repos\Recurso\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+C:\Users\fabio\source\repos\Recurso\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
