@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Pascalator</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Fourth\" />
+    <Folder Include="Third\" />
+  </ItemGroup>
+
+</Project>

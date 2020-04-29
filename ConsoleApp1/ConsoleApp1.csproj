@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Pascaleira\Pascaleira.csproj" />
+    <ProjectReference Include="..\Pascaleira\Pascalator.csproj" />
   </ItemGroup>
 
 </Project>

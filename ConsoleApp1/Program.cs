@@ -1,4 +1,5 @@
 ﻿using Pascalator.First;
+using Pascalator.Second;
 using System;
 using System.Linq;
 
@@ -20,10 +21,8 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            var max = double.MaxValue;
-            var calc = new Calculator();
-            calc.Sum(1, 2);
-            Console.WriteLine(calc.LastResult);
+            Calculator obj = new Calculator();
+            int i = 0;
         }
     }
 }
