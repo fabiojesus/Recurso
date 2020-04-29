@@ -10,15 +10,19 @@ namespace Pascalator.First
 
         public bool IsOn { get; private set; }
 
-        public void Clean()
+        public void Clear()
         {
             LastResult = 0.0;
+        }
+        public void Power(double value, double power)
+        {
+            LastResult = Math.Pow(value, power);
         }
 
         public void OnOff()
         {
             IsOn = !IsOn;
-            if (!IsOn) Clean();
+            if (!IsOn) Clear();
         }
 
         public void AddPercentage(double value, double percentage)
@@ -112,5 +116,6 @@ namespace Pascalator.First
         {
             return x + y;
         }
+
     }
 }

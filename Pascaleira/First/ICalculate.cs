@@ -18,6 +18,7 @@ namespace Pascalator.First
         void AddPercentage(double value, double percentage);
         void RemovePercentage(double value, double percentage);
         void GetSquareRoot(double value);
+        void Power(double value, double power);
         void GetRoot(double value, double root);
     }
 }

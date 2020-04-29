@@ -31,5 +31,7 @@ namespace Pascalator.Second
         void GetSquareRoot();
         void GetRoot(double value, double root);
         void GetRoot(double root);
+        void Power(double value, double power);
+        void Power(double power);
     }
 }
