@@ -1,6 +1,6 @@
-﻿using Arrays;
-using Pascaleira.Fase1;
+﻿using Pascalator.First;
 using System;
+using System.Linq;
 
 namespace ConsoleApp1
 {
@@ -20,31 +20,10 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-
-            long i = 0;
-            //var isBetween = i.IsBetween(10, 20);
-            var firstIsBetween = i.IsBetweenAndDifferentFromAndDiviseableBy(10, 20, 8, 24);
-            var secondIsBetween = i.IsBetweenAndDifferentFromAndDiviseableBy(18, 50, 31, 98);
-            
-            if(firstIsBetween)
-            {
-                char i = 'a';
-                char.Is
-                i = 3;
-            }
-            else
-            {
-                i = 4;
-            }
-            if (secondIsBetween)
-            {
-                i = 3;
-            }
-            else
-            {
-                i = 4;
-            }
-
+            var max = double.MaxValue;
+            var calc = new Calculator();
+            calc.Sum(1, 2);
+            Console.WriteLine(calc.LastResult);
         }
     }
 }

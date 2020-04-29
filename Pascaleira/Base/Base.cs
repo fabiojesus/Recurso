@@ -1,6 +1,9 @@
 ﻿using System;
+using System.Data;
+using System.Threading;
+using System.Xml.Schema;
 
-namespace Pascaleira.Fase1
+namespace Pascaleira.Base
 {
     public static class Pascalator
     {
@@ -132,7 +135,48 @@ namespace Pascaleira.Fase1
 
             return (average / numbers.Length);
         }
+        /// <summary>
+        /// add a percentage value 
+        /// </summary>
+        /// <param name="num">Base number</param>
+        /// <param name="perc"> value percetagem</param>
+        /// <returns>num + value percetagem</returns>
+        public static double AddPercentage(double num, double perc)
+        {
+            return num * (perc / 100 + 1);
+        }
+        /// <summary>
+        /// subtracts a percentage to a number
+        /// </summary>
+        /// <param name="num">number</param>
+        /// <param name="perc">percentage to subtract</param>
+        /// <returns>the result</returns>
+        public static double SubtractPercentage(double num, double perc)
+        {
+            var result = num - (num * (perc / 100));
+            return result;
+        }
+
+        /// <summary>
+        /// Gets Square Root
+        /// </summary>
+        /// <param name="number">number to which you want to apply square root</param>
+        /// <returns>returns square root</returns>
+        public static double GetSquareRoot(double number)
+        {
+            return Math.Pow(number, 1 / 2);
+
+        }
+
+        /// <summary>
+        /// calculates the root of a number in the desiered power
+        /// </summary>
+        /// <param name="number">number to calculate the root</param>
+        /// <param name="power">power in which to calculate the root</param>
+        /// <returns>the calculated root</returns>c
+        public static double GetRoot(double number, double power)
+        {
+            return Math.Pow(number, 1 / power);
+        }
     }
-
-
 }

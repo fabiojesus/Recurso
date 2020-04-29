@@ -8,16 +8,10 @@
     ".NETCoreApp,Version=v3.1": {
       "ConsoleApp1/1.0.0": {
         "dependencies": {
-          "Arrays": "1.0.0",
           "Pascaleira": "1.0.0"
         },
         "runtime": {
           "ConsoleApp1.dll": {}
-        }
-      },
-      "Arrays/1.0.0": {
-        "runtime": {
-          "Arrays.dll": {}
         }
       },
       "Pascaleira/1.0.0": {
@@ -29,11 +23,6 @@
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Arrays/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
