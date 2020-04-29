@@ -13,21 +13,11 @@
         "runtime": {
           "ConsoleApp1.dll": {}
         }
-      },
-      "Pascaleira/1.0.0": {
-        "runtime": {
-          "Pascaleira.dll": {}
-        }
       }
     }
   },
   "libraries": {
     "ConsoleApp1/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Pascaleira/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

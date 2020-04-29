@@ -6,6 +6,7 @@ namespace Pascalator.First
 {
     public interface ICalculate
     {
+        void TakeBatteries();
         double LastResult { get; }
         void Sum(double x, double y);
         void Subtract(double x, double y);

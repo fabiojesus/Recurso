@@ -117,5 +117,9 @@ namespace Pascalator.First
             return x + y;
         }
 
+        public void TakeBatteries()
+        {
+            throw new NotImplementedException();
+        }
     }
 }
