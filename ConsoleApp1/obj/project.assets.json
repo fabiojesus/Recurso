@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Arrays/1.0.0": {
+      "Pascaleira/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "compile": {
-          "bin/placeholder/Arrays.dll": {}
+          "bin/placeholder/Pascaleira.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Arrays.dll": {}
+          "bin/placeholder/Pascaleira.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Arrays/1.0.0": {
+    "Pascaleira/1.0.0": {
       "type": "project",
-      "path": "../Arrays/Arrays.csproj",
-      "msbuildProject": "../Arrays/Arrays.csproj"
+      "path": "../Pascaleira/Pascaleira.csproj",
+      "msbuildProject": "../Pascaleira/Pascaleira.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Arrays >= 1.0.0"
+      "Pascaleira >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -52,8 +52,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\fabio\\source\\repos\\Recurso\\Arrays\\Arrays.csproj": {
-              "projectPath": "C:\\Users\\fabio\\source\\repos\\Recurso\\Arrays\\Arrays.csproj"
+            "C:\\Users\\fabio\\source\\repos\\Recurso\\Pascaleira\\Pascaleira.csproj": {
+              "projectPath": "C:\\Users\\fabio\\source\\repos\\Recurso\\Pascaleira\\Pascaleira.csproj"
             }
           }
         }

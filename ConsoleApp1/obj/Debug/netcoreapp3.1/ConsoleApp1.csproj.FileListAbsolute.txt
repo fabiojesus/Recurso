@@ -14,3 +14,5 @@ C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleA
 C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
 C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
 C:\Users\fabio\source\repos\Recurso\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\Pascaleira.dll
+C:\Users\fabio\source\repos\Recurso\ConsoleApp1\bin\Debug\netcoreapp3.1\Pascaleira.pdb
